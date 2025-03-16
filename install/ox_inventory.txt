@@ -1,0 +1,45 @@
+-- ox_inventory/data/items.lua
+['fishingrod'] = {
+	label = 'Wędka',
+	weight = 700,
+	stack = false,
+},
+
+['okon'] = {
+	label = 'Okoń',
+	weight = 500,
+	stack = true,
+},
+
+['dorsz'] = {
+	label = 'Dorsz',
+	weight = 800,
+	stack = true,
+},
+
+['szczupak'] = {
+	label = 'Szczupak',
+	weight = 1000,
+	stack = true,
+},
+
+['zlotaryba'] = {
+	label = 'Złota ryba',
+	weight = 800,
+	stack = true,
+},
+
+['perla'] = {
+	label = 'Perła',
+	weight = 500,
+	stack = true,
+},
+
+
+-- ox_inventory/data/shops.lua
+wedkarski = {
+	name = 'Sklep wędkarski',
+	inventory = {
+		{ name = 'fishingrod', price = 100 },
+	}
+},
