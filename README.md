@@ -1,5 +1,8 @@
 # m_fisherjob
-To podstawowa praca, która polega na łowieniu rybek. Posiada bardzo prosty do ustawienia config. Zapraszam do przetestowania i [zostawienia czegoś po sobie!]()
+To podstawowa praca, która polega na łowieniu rybek. Posiada bardzo prosty do ustawienia config. Zapraszam do przetestowania i [zostawienia czegoś po sobie!](link do yt)
+
+# Preview:
+(link do yt)
 
 # Poczytaj więcej "o mnie" na moich social mediach:
 - Strona WWW: https://marolliscripts.pl
