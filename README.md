@@ -1,8 +1,8 @@
 # m_fisherjob
-To podstawowa praca, która polega na łowieniu rybek. Posiada bardzo prosty do ustawienia config. Zapraszam do przetestowania i [zostawienia czegoś po sobie!](link do yt)
+To podstawowa praca, która polega na łowieniu rybek. Posiada bardzo prosty do ustawienia config. Zapraszam do przetestowania i [zostawienia czegoś po sobie!](https://www.youtube.com/watch?v=M_zCxyHUfvU)
 
 # Preview:
-(link do yt)
+## https://www.youtube.com/watch?v=M_zCxyHUfvU
 
 # Instalacja:
 - Wrzucasz plik do resources (oczywiście musisz wystartować go w server.cfg)
