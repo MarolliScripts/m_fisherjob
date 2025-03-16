@@ -4,6 +4,12 @@ To podstawowa praca, która polega na łowieniu rybek. Posiada bardzo prosty do 
 # Preview:
 ## https://www.youtube.com/watch?v=M_zCxyHUfvU
 
+# Wymagania:
+- ESX Framework
+- ox_lib
+- ox_inventory
+- ox_target
+
 # Instalacja:
 - Wrzucasz plik do resources (oczywiście musisz wystartować go w server.cfg)
 - W folderze install znajduje się folder images, z którego zdjęcia należy przeżucić do: ox_inventory/web/images
